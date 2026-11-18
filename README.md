@@ -1,28 +1,31 @@
 # Ivan Popov
 
-### AI Systems Engineering | Multi-Agent Systems | Intelligent Automation
+### AI Services Development | Multi-Agent Systems | Intelligent Automation
 
-I design and develop AI-powered systems, multi-agent workflows, and intelligent automation solutions.
+I design and develop application-layer AI services that use existing AI models and technologies to solve practical business problems.
 
-My work combines AI engineering, workflow orchestration, system integration, and software quality engineering. I focus on turning complex processes into structured, reliable, and maintainable systems.
+My work focuses on service architecture, agent orchestration, workflow automation, API integrations, and the reliability of AI-powered solutions. I build the systems around AI capabilities rather than training or developing foundation models.
 
 ## About
 
-I lead the development of AI services, with a focus on practical AI applications, agent-based solutions, and workflow automation.
+I lead the development of AI services, focusing on turning business processes into structured, integrated, and maintainable solutions.
 
-**Current focus:** AI systems development and intelligent automation
+**Current role:** AI Services Development Lead
+
+**Current focus:** AI-powered services, multi-agent workflows, and intelligent automation.
 
 ## Areas of Focus
 
-- **AI Systems Engineering** — designing AI-powered systems and agent-based architectures.
-- **Multi-Agent Systems** — building specialized agents, orchestration workflows, and collaborative agent systems.
-- **AI Automation** — developing workflows with n8n and connecting services through APIs.
+- **AI Services Engineering** — designing and developing applications and services built on existing AI capabilities.
+- **Multi-Agent Systems** — building specialized agents, orchestration workflows, and coordinated agent systems.
+- **AI Automation** — automating business and engineering processes with tools such as n8n.
+- **System Integration** — connecting AI services, APIs, and external platforms into coherent solutions.
 - **Quality Engineering** — applying AI to test design, test analysis, and software quality processes.
 - **Engineering Tooling** — developing reusable tools, structured contracts, and evaluation approaches.
 
 ## Technologies & Tools
 
-- **AI & Agents:** LLMs, multi-agent systems, agent orchestration
+- **AI Applications:** AI-powered services, agent workflows, orchestration
 - **Automation:** n8n
 - **Integration:** REST APIs, webhooks, JSON
 - **Quality Engineering:** API testing, test design, test automation
@@ -36,7 +39,3 @@ I lead the development of AI services, with a focus on practical AI applications
 - Reusable and maintainable components.
 - Controlled execution and human oversight.
 - Continuous evaluation and improvement.
-
----
-
-*Building practical AI systems, one component at a time.*
