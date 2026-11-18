@@ -20,8 +20,9 @@ My focus is on production-ready tools that integrate into existing workflows and
 
 ## Tools & Technologies
 
-- **Agent Development:** OpenCode
+- **AI-assisted Development:** OpenCode
 - **Workflow Automation:** n8n
 - **Observability & Evaluation:** Langfuse
+- **Vector Database:** KHub
 - **Integration:** REST APIs, webhooks, JSON
 - **Version Control:** Git, GitHub
